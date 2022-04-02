@@ -6,7 +6,7 @@
     <link rel="icon" href="IMAGES/women.ico">
 </head>
 <!--heading and underline-->
-<body bgcolor="#d8bb78">
+<body bgcolor="blue">
     <table>
         <h1>Profile</h1><hr color="black"><hr color="black">
         <tr>
