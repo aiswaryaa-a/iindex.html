@@ -180,8 +180,6 @@
     <h4>external links</h4>
     <li><a href="https://en.wikipedia.org/wiki/List_of_Priyanka_Chopra_performances" target="blank">Wikipedia</a></li>
     <li><a href="https://en.wikipedia.org/wiki/List_of_Priyanka_Chopra_performances" target="blank">priyanka chopra List_of_Priyanka_Chopra_performances</a></li>
-    <form action="/thanks.html">
-        <button type="submit">Thanks</button>
-    </form>
+  
 </body>
 </html>
