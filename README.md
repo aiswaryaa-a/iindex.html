@@ -161,16 +161,16 @@
     <!--image 1-->
     <table>
         <tr>
-          <th><img src="images/330px-Priyanka_promotes_'Teri_Meri_Kahaani'_04.jpg" alt="img" width="300" height="300">
+          <th><img src="https://en.wikipedia.org/wiki/File:Priyanka-chopra-gesf-2018-7565.jpg" alt="img" width="300" height="300">
             <li>in Teri_Meri_Kahaani</li></th>
           <th><img src="IMAGES/330px-Priyanka-chopra-gesf-2018-7565.jpg" alt="img" width="300" height="300">
             <li>Chopra at the 2018 Global Education and Skills Forum</li></th>
           <th>
-              <img src="IMAGES/Priyanka_Chopra_Family.jpg" alt="img" width="300" height="300">
+              <img src="https://en.wikipedia.org/wiki/File:Priyanka_Chopra_Family.jpg" alt="img" width="300" height="300">
               <li>Chopra with parents and Sibling</li>
           </th>
           <th>
-              <img src="images/949040-nick-jonas-priyanka-chopra.jpg" alt="img" width="300" height="300">
+              <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dnaindia.com%2Fhollywood%2Freport-priyanka-chopra-jonas-on-her-10-year-age-gap-and-cultural-differences-with-husband-nick-jonas-2867364&psig=AOvVaw1IZbDbZZVU4n9zA0N7-HQw&ust=1648964225071000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMi_us3U9PYCFQAAAAAdAAAAABAD" alt="img" width="300" height="300">
               <li>chopra with Nick</li>
           </th>
         </tr>
